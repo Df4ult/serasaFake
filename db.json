@@ -17,6 +17,12 @@
     "name":"Qualidade 01",
     "debit":350000,
     "grade":"C"    
+  },
+   {
+    "cpf":"777.777.777-77",
+    "name":"Luis",
+    "debit":70,
+    "grade":"A"    
   }
 ]
 }
